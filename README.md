@@ -4,12 +4,12 @@
 
 This is a short script for extracting frames from multiple cameras according to a synchronization profile. This script was used to create the demo seen above. I created this short program because it is *very* tedious manually exporting frames from nine different cameras (let alone the suggested 40+!) in Final Cut.
 
-###Requirements
+### Requirements
 
 1. python3
 2. ffmpeg
 
-###Usage
+### Usage
 
 1 . Create a folder which holds all the camera shots for the scene
 
